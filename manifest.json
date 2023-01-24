@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Linkexa Faithful 64x. Get Faithful here: https://www.faithfulpack.net
+        Subscribe to LinkexaHy here: https://www.youtube.com/LinkexaHy",
+        "name": "Linkexa Faithful 64x",
+        "uuid": "81494183-b283-4865-8823-06209ca35cd0",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 19, 50 ]
+    },
+    "modules": [
+        {
+            "description": "Linkexa Faithful 64x. Get Faithful here: https://www.faithfulpack.net
+            Subscribe to LinkexaHy here: https://www.youtube.com/LinkexaHy",
+            "type": "resources",
+            "uuid": "a0782eda-2028-4d6e-828f-0c324d9947e5",
+            "version": [0, 0, 1]
+        }
+    ]
+}
