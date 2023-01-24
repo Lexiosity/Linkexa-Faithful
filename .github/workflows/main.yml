@@ -13,4 +13,4 @@ jobs:
       with:
         server: ftp.samkirkland.com
         username: myFtpUserName
-        password: ${{ AH2005.ftp_password }}
+        password: ${{ secrets.AH2005 }}
