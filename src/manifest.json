@@ -5,7 +5,7 @@
         Subscribe to LinkexaHy here: https://www.youtube.com/LinkexaHy",
         "name": "Linkexa Faithful",
         "uuid": "81494183-b283-4865-8823-06209ca35cd0",
-        "version": [1, 0, 1],
+        "version": [1, 0, 2],
         "min_engine_version": [ 1, 19, 50 ]
     },
     "modules": [
@@ -14,7 +14,7 @@
             Subscribe to LinkexaHy here: https://www.youtube.com/LinkexaHy",
             "type": "resources",
             "uuid": "a0782eda-2028-4d6e-828f-0c324d9947e5",
-            "version": [1, 0, 1]
+            "version": [1, 0, 2]
         }
     ],
     "subpacks": [
