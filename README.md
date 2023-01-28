@@ -1,7 +1,7 @@
 # Linkexa Faithful
 
 ## What is Linkexa Faithful?
-Linkexa Faithful is a resource pack for Minecraft Bedrock Edition which uses Faithful 64x as a base.
+Linkexa Faithful is a resource pack for Minecraft Bedrock Edition which uses Faithful as a base. Linkexa Faithful gives two resolutions you can go for, 32x and 64x. 32x causes less lag but the textures aren't as great as 64x textures.
 
 ## Where can I find the normal Faithful?
 You can find Faithful at https://faithfulpack.net/
